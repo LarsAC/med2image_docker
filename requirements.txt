@@ -1,0 +1,5 @@
+nibabel
+pydicom
+matplotlib
+pillow
+med2image
