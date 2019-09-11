@@ -12,4 +12,4 @@ RUN pip install -r /requirements.txt
 WORKDIR /app
 
 ENTRYPOINT ["med2image"]
-CMD [, "-d", "/output", "-i","/input/input.dcm"]
+CMD [ "-d", "/output", "-i","/input/input.dcm"]
